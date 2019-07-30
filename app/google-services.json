@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439147773194",
+    "firebase_url": "https://musicrs-c5f1f.firebaseio.com",
+    "project_id": "musicrs-c5f1f",
+    "storage_bucket": "musicrs-c5f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439147773194:android:34d9c9a64c546ce4",
+        "android_client_info": {
+          "package_name": "com.example.musicrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439147773194-tddn9jfd94rv26omkpm5f0qh8a2jdain.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicrs",
+            "certificate_hash": "b31f3a33455af1a5e93fa83a4520b94fd7f724ee"
+          }
+        },
+        {
+          "client_id": "439147773194-dbkr7osu3vs4tv5v6s28p37b44oen2tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-oF-7M6VB36Ivh6wNzVfkP5o2GHzaNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439147773194-dbkr7osu3vs4tv5v6s28p37b44oen2tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
